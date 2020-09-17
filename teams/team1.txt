@@ -1,0 +1,21 @@
+STARTING 11
+GK Handanovic S.
+DEF Skriniar M.
+DEF Kolarov A.
+DEF Manolas K.
+MID Hamsik M.
+MID Biglia L.
+MID Nainggolan R.
+MID Pjanic M.
+STR Mertens D.
+STR Dybala P.
+STR Icardi M.
+
+SUBSTITUTES
+GK Viviano E.
+DEF Romulo
+DEF Marusic A.
+MID Barreto E.
+MID Iago F.
+STR Kalinic N.
+STR Quagliarella F.

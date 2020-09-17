@@ -1,0 +1,22 @@
+STARTING 11
+GK Sirigu S.
+DEF Felipe
+DEF Marusic A.
+DEF Lichtsteiner S.
+MID Gagliardini R.
+MID Laxalt D.
+MID Strootman K.
+MID Verdi S.
+MID Khedira S.
+STR Ciciretti A.
+STR Simeone G.
+
+SUBSTITUTES
+GK Donnarumma G.
+DEF Strinic I.
+DEF Cannavaro P.
+MID Castro L.
+MID Kessie F.
+STR Callejon J.
+STR Pazzini G.
+

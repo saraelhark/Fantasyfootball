@@ -1,0 +1,21 @@
+STARTING 11
+GK Szczesny W.
+DEF De Vrij S.
+DEF Gonzalez G.
+DEF Chiellini G.
+MID Barella N.
+MID Khedira S.
+MID Bertolacci A.
+MID Vecino M.
+STR Suso J.
+STR Insigne L.
+STR Perotti D.
+
+SUBSTITUTES
+GK Buffon G.
+DEF Barzagli A.
+DEF Caldara M.
+MID Jankto J.
+MID Hetemaj P.
+STR Lasagna K.
+STR Dzeko E.
